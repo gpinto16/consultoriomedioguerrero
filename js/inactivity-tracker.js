@@ -62,7 +62,7 @@ function inactivityTracker() {
     }
 
     function logOutInactivity() {
-        window.location.replace("/index.html");
+        window.location.replace("/Login.html");
     }
 
     // Function to remove alert and reset logout timer
